@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::oldInputIsEmpty()]]></content>
+    <tabTrigger>oldInputIsEmpty</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

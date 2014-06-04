@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::open(${1:options})]]></content>
+    <tabTrigger>open</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

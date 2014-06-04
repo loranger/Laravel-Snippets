@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::input(${1:type}, ${2:name}, ${3:value}, ${4:options})]]></content>
+    <tabTrigger>input</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

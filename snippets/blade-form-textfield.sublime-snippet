@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="form-group">
+	{{ Form::label('${1:name}', '${2:value}') }}
+	{{ Form::text('${1}', '${3:Default value}'${4:, ['class'=>'${5:form-control}']}) }}
+</div>
+
+]]></content>
+	<tabTrigger>textfi</tabTrigger>
+	<scope>text.html.laravel-blade, text.html</scope>
+</snippet>

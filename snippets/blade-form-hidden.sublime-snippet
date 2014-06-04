@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::hidden(${1:name}, ${2:value}, ${3:options})]]></content>
+    <tabTrigger>hidden</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

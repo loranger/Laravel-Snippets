@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::selectMonth(${1:name}, ${2:selected}, ${3:options})]]></content>
+    <tabTrigger>selectMonth</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

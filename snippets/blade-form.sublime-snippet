@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[{{ Form::open(array('${1:url}' => '${2:foo/bar}'${3:, 'method' => '${4:put}'})) }}
+    ${5://}
+{{ Form::close() }}]]></content>
+    <tabTrigger>form</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

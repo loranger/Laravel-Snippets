@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::close()]]></content>
+    <tabTrigger>close</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>

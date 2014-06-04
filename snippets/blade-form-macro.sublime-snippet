@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Form::macro(${1:name}, ${2:macro})]]></content>
+    <tabTrigger>macro</tabTrigger>
+    <scope>text.html.laravel-blade, text.html</scope>
+</snippet>
